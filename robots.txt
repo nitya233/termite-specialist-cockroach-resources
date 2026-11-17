@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nitya233.github.io/termite-specialist-cockroach-resources/sitemap.xml
